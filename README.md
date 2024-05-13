@@ -1,4 +1,4 @@
-# ImersaoAG_Testes-Phyton
+# Imersao 5 dias + criação de Chatbot 
 Alura + Google AI STUDIO + Gemini AI 
 
 Este é meu primeiro código, e estou animada para continuar aprendendo IA! 
